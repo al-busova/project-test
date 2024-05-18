@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <defs>
     <symbol id="icon-menu" viewBox="0 0 44 32">
         <path
             d="M0 0v4.431h44.308v-4.431h-44.308zM0 13.292v4.431h44.308v-4.431h-44.308zM0 31.015v-4.431h44.308v4.431h-44.308z">
@@ -45,5 +46,5 @@
                 <polygon points="6,11 7.41,12.41 12,7.83 16.59,12.41 18,11 12,5" />
             </g>
         </g>
-    </symbol>
+    </symbol></defs>
 </svg>
